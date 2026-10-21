@@ -1,7 +1,35 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Brasil",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="01 TV aberta",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br" group-title="Brasil",Canal Educacao
-https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br" group-title="Brasil",Canal Gov
+#EXTINF:-1 tvg-id="TVCultura.br" group-title="01 TV aberta",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
+#EXTINF:-1 tvg-id="TVGazeta.br" group-title="01 TV aberta",TV Gazeta
+https://tv.nuvemplay.live/hls/40gtv/stream.m3u8
+#EXTINF:-1 tvg-id="RedeBrasil.br" group-title="01 TV aberta",Rede Brasil
+https://redebrasil.nuvemplay.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="PlayTV.br" group-title="02 Entretenimento",Play TV
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+#EXTINF:-1 tvg-id="RecordNews.br" group-title="03 Noticias",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+#EXTINF:-1 tvg-id="CanalGov.br" group-title="03 Noticias",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVCamara.br" group-title="03 Noticias",TV Camara
+https://stream3.camara.gov.br/tv1/manifest.m3u8
+#EXTINF:-1 tvg-id="CanalEducacao.br" group-title="04 Educacao",Canal Educacao
+https://canaleducacao-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="CanalLibras.br" group-title="04 Educacao",Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
+#EXTINF:-1 tvg-id="CanalSaude.br" group-title="04 Educacao",Canal Saude
+https://eitv7.cdn.broadpeak.io/account351-i1495/event/canalsaude/format720p.m3u8
+#EXTINF:-1 tvg-id="CINDIETV.br" group-title="05 Filmes e Series",CINDIE TV - Filmes
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
+#EXTINF:-1 tvg-id="TVSeries.br" group-title="05 Filmes e Series",TV Series - As Panteras
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" group-title="05 Filmes e Series",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalRicos.br" group-title="02 Entretenimento",Canal Ricos
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasilCentral.br" group-title="06 Goias - testes",GO - TV Brasil Central (teste)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSerraDourada.br" group-title="06 Goias - testes",GO - SBT TV Serra Dourada (teste)
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
