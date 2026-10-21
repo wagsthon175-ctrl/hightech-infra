@@ -1,9 +1,7 @@
 #EXTM3U
-# Hightech TV Brasil - lista preliminar gratuita para testar no UHF/VLC.
-# Testes anteriores identificaram manifestos HLS; a reprodução em cada aparelho não está garantida.
-#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Brasil - TV Aberta",TV Brasil
+#EXTINF:-1 tvg-id="TVBrasil.br" group-title="Brasil",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalEducacao.br" group-title="Brasil - Educação",Canal Educação
+#EXTINF:-1 tvg-id="CanalEducacao.br" group-title="Brasil",Canal Educacao
 https://canaleducacao-stream.ebc.com.br/index.m3u8
-#EXTINF:-1 tvg-id="CanalGov.br" group-title="Brasil - Notícias",Canal Gov
+#EXTINF:-1 tvg-id="CanalGov.br" group-title="Brasil",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
