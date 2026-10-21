@@ -33,3 +33,5 @@ https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
 https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSerraDourada.br" group-title="06 Goias - testes",GO - SBT TV Serra Dourada (teste)
 https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RecordTVGoias.br" group-title="06 Goias - testes",GO - Record TV Goias (teste; restricao regional)
+https://playplusgoya-lh.akamaihd.net/i/pp_gna@377833/index_720_av-p.m3u8
